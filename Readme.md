@@ -1,4 +1,4 @@
-###Example factory for building acceptor objects
+### Example factory for building acceptor objects
 There is a back frontend app intended for creating and combing
 queries for some backend services. So app has a service layer for working
 with third-party services. All third-party services accessible from app via 
